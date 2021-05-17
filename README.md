@@ -25,4 +25,6 @@ soon...
 
 ## Frameworks
 
-soon...
+* [Charts.css for React](https://github.com/hollanddd/charts-css-react)
+* [Vue Charts.CSS](https://github.com/Vue-Charts-CSS/vue.charts.css)
+* [Gatsby Plugin Charts.css](https://github.com/PaulieScanlon/gatsby-plugin-charts-css)
