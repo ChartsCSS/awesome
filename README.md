@@ -7,23 +7,33 @@
 A curated list of awesome Charts.css resources and libraries:
 
 - [Resources](#resources)
-- [Plugins](#plugins)
 - [Themes](#themes)
+- [Plugins](#plugins)
 - [Frameworks](#frameworks)
 
 ## Resources
 
+Docs and guides for new and advanced users:
+
 - [Official Documentation](https://chartscss.org/docs/) - The ultimate user guide.
-
-## Plugins
-
-soon...
 
 ## Themes
 
-soon...
+Free CSS themes that take your chart design to the next level:
+
+* soon
+* soon
+
+## Plugins
+
+Free JS plugins and addons that make your chart interactive:
+
+* soon
+* soon
 
 ## Frameworks
+
+Use Charts.css in you favorite FrontEnd-Framework or Library:
 
 * [Charts.css for React](https://github.com/hollanddd/charts-css-react)
 * [Vue Charts.css](https://github.com/Vue-Charts-CSS/vue.charts.css)
