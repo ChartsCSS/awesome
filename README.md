@@ -29,3 +29,4 @@ soon...
 * [Vue Charts.css](https://github.com/Vue-Charts-CSS/vue.charts.css)
 * [Angular Chart.css](https://github.com/karlgodtliebsen/chart-css-angular)
 * [Gatsby Plugin Charts.css](https://github.com/PaulieScanlon/gatsby-plugin-charts-css)
+* [Charts.css for Python](https://github.com/rayluo/charts.css.py)
