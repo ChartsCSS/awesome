@@ -40,3 +40,4 @@ Use Charts.css in you favorite FrontEnd-Framework or Library:
 * [Angular Chart.css](https://github.com/karlgodtliebsen/chart-css-angular)
 * [Gatsby Plugin Charts.css](https://github.com/PaulieScanlon/gatsby-plugin-charts-css)
 * [Charts.css for Python](https://github.com/rayluo/charts.css.py)
+* [Charts.css for Laravel](https://github.com/maartenpaauw/laravel-charts-css)
